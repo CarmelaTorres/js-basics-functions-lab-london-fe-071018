@@ -1,4 +1,4 @@
 // Code your solution in this file!
 function distanceFromHqInBlock (someValue){
-  return 1;
+  return ;
 }
